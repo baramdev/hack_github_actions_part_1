@@ -142,9 +142,9 @@ jobs:
           echo "Varios comandos en un solo step"
           ls -la
 ```
-</br>
-</br>
 
 ***
 
-*<h3 style="text-align: center; font-size: 2.5rem;">BaramDev</h3>*
+<div style="text-align: center;">
+  <h3 style="font-size: 2.5rem;">BaramDev</h3>
+</div>
